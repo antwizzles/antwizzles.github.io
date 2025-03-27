@@ -30,3 +30,6 @@ The dataset used for NBA Salaries Analysis was sourced from [Kaggle: NBA Player 
 
 #### Instruction to View the Analysis:
 1. Open 'nba_salaries.ipynb' file
+
+#### Predicting Success of Bank Telemarketing 
+- Group Project using Logistic Regression in R Studio
