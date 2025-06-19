@@ -25,11 +25,8 @@ Welcome to my portfolio! Here, I showcase the projects I've worked on during my 
 The dataset used for NBA Salaries Analysis was sourced from [Kaggle: NBA Player Salaries 2022-23 Season](https://www.kaggle.com/datasets/jamiewelsh2/nba-player-salaries-2022-23-season).
 
 - **Description:** The dataset contains various attributes of NBA players, including statistics such as points, rebounds, assists, salary, and more.  
-- **File:** `nba_2022-23_all_stats_with_salary.csv`  
+- **File:**  Open 'nba_salaries.ipynb' file
 - **Source:** [Link to Dataset on Kaggle](https://www.kaggle.com/datasets/jamiewelsh2/nba-player-salaries-2022-23-season)
-
-#### Instruction to View the Analysis:
-1. Open 'nba_salaries.ipynb' file
 
 #### Predicting Success of Bank Telemarketing 
 - Group Project using Logistic Regression in R Studio
