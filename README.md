@@ -28,5 +28,5 @@ The dataset used for NBA Salaries Analysis was sourced from [Kaggle: NBA Player 
 - **File:**  Open 'nba_salaries.ipynb' file
 - **Source:** [Link to Dataset on Kaggle](https://www.kaggle.com/datasets/jamiewelsh2/nba-player-salaries-2022-23-season)
 
-#### Predicting Success of Bank Telemarketing 
-- Group Project using Logistic Regression in R Studio
+#### Predicting Maternal Mortality Health Risk Using Clinical Features
+
