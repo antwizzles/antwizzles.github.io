@@ -20,12 +20,16 @@ Welcome to my portfolio! Here, I showcase the projects I've worked on during my 
 ### Projects
 
 #### Predicting NBA Salaries from 2022-23 Draft Season
-
 - **Dataset:** [Kaggle: NBA Player Salaries 2022-23 Season](https://www.kaggle.com/datasets/jamiewelsh2/nba-player-salaries-2022-23-season)
 - **Description:** The dataset contains various attributes of NBA players, including statistics such as points, rebounds, assists, salary, and more.  
 - **File:**  Open 'nba_salaries.ipynb' file
 
 #### Predicting Maternal Mortality Health Risk Using Clinical Features
+- **Dataset:** [UCI Machine Learning Repository: Maternal Risk](https://archive.ics.uci.edu/dataset/863/maternal+health+risk)
 - **File:**  Open 'maternal_mortality.pdf' file
+
+#### Predicting Booking Frequency of Airbnbs
+- **Dataset:** [Inside Airbnb - San Diego](https://insideairbnb.com/get-the-data/)
+- **File:**  Open 'san diego bnb.pdf' file
 
 
