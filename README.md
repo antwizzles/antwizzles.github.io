@@ -6,7 +6,7 @@ Welcome to my portfolio! Here, I showcase the projects I've worked on during my 
 
 ### Education
 
-- **Master's of Applied Statistics and Data Science** @ UCLA (Expected 2026)  
+- **Master's of Applied Statistics and Data Science** @ UCLA  
 - **Bachelor of Science, Statistics** @ UC Riverside
 
 ---
@@ -18,6 +18,12 @@ Welcome to my portfolio! Here, I showcase the projects I've worked on during my 
 ---
 
 ### Projects
+
+#### Predictive Maintenance: Remaining Useful Life Estimation with Uncertainty
+
+- **Dataset:** [NASA C-MAPSS Turbofan Engine Degradation (FD001)](https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/)
+- **Description:** Predicts how many cycles remain before a turbofan engine fails, and quantifies the confidence in each prediction. Compares a Random Forest baseline against an LSTM sequence model, then adds quantile regression to produce calibrated 90% prediction intervals — giving maintenance teams both an estimate and its uncertainty.
+- **Repo:** [predictive-maintenance-rul](https://github.com/antwizzles/predictive_maintenance)
 
 #### Predicting NBA Salaries from 2022-23 Draft Season
 - **Dataset:** [Kaggle: NBA Player Salaries 2022-23 Season](https://www.kaggle.com/datasets/jamiewelsh2/nba-player-salaries-2022-23-season)
