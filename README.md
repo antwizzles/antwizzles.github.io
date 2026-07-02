@@ -33,9 +33,3 @@ Welcome to my portfolio! Here, I showcase the projects I've worked on during my 
 #### Predicting Maternal Mortality Health Risk Using Clinical Features
 - **Dataset:** [UCI Machine Learning Repository: Maternal Risk](https://archive.ics.uci.edu/dataset/863/maternal+health+risk)
 - **File:**  Open 'maternal_mortality.pdf' file
-
-#### Predicting Booking Frequency of Airbnbs
-- **Dataset:** [Inside Airbnb - San Diego](https://insideairbnb.com/get-the-data/)
-- **File:**  Open 'san diego bnb.pdf' file
-
-
