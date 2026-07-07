@@ -1,6 +1,6 @@
 # Antoinette Nguyen's Portfolio
 
-Welcome to my portfolio! Here, I showcase the projects I've worked on during my journey in statistics and data science, both academic and passion-driven. With over two years of experience as a statistical analyst focusing on reliability analysis for the U.S. Navy, I've developed a solid foundation in data-driven decision-making. Currently, I'm pursuing my master's degree in Applied Statistics and Data Science at UCLA, working toward my dream of becoming a data scientist.
+Welcome to my portfolio! Here, I showcase the projects I've worked on during my journey in statistics and data science, both academic and passion-driven. With over two years of experience as a statistical analyst focusing on reliability analysis, I've developed a solid foundation in data-driven decision-making. Currently, I'm pursuing my master's degree in Applied Statistics and Data Science at UCLA, working toward my dream of becoming a data scientist.
 
 ---
 
